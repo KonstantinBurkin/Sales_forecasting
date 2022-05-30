@@ -18,5 +18,5 @@ Create predictions to evaluate the number of sales for next week of February. Th
     -  **public_data.zip** - contains two dataframes (train.csv and test.csv) in a single zipfile.
 - **instruction.pdf** - Contains instructions (in Russian) how to implement the project.
 - **README.md** - Description of the project and repository.
-
-Created by the end spring semester, 2022.
+$$ $$
+$$Created\ by\ the\ end\ of\ April,\ 2022.$$
