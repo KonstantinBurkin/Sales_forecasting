@@ -15,5 +15,4 @@ Dataframe contained information about the date, weather conditions, product type
     -  **train.csv** - train dataframe, used for training ML models.
     -  **test.csv** - test dataframe, used for predictions.
     -  **public_data.zip** - contains two dataframes (train.csv and test.csv) in a single zipfile.
-    - **instruction.pdf** - Additional details (in Russian) about the project.
 
