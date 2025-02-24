@@ -1,7 +1,7 @@
 # Sales forecasting
 The main goal is to predict sales of products in 10 largest cities for one week.
 <div>
-<img src="https://s3-alpha.figma.com/hub/file/1507704774/e9bcdb21-2507-4978-b618-609571b70f81-cover.png" width="500"/>
+<img src="./data/picture.png" width="500"/>
 </div>
 
 ## Introduction
