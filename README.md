@@ -1,4 +1,8 @@
 # Sales forecasting
+The main goal is to predict sales of products in 10 largest cities for one week.
+<div>
+<img src="https://s3-alpha.figma.com/hub/file/1507704774/e9bcdb21-2507-4978-b618-609571b70f81-cover.png" width="500"/>
+</div>
 
 ## Introduction
 Sales forecasts help make informed decisions about everything from staffing and inventory to new product lines and potential marketing efforts. Sales forecasting allows sales managers and reps to spot potential issues and gives you time to avoid or alleviate them.
@@ -10,7 +14,6 @@ Dataframe contained information about the date, weather conditions, product type
 
 ## Files
 - **sales_forecasting.ipynb** - Main notebook with description of the project, code, graphs, and comments.
-- **sales_forecasting_supplementary.ipynb** - Additional code needed to convert the notebook to web-page.
 - **data** - directory, that contains dataframes, used in the project.
     -  **train.csv** - train dataframe, used for training ML models.
     -  **test.csv** - test dataframe, used for predictions.
