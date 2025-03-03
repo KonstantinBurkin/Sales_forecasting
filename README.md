@@ -13,7 +13,11 @@
 Dataframe contained information about the date, weather conditions, product types, stores, and their locations. The history of the deliveries is available for previous 7 months.  
 
 ## Main results
-- Compared effectiveness CatBoost and LGBM models for weekly sales prognosis. LGBM was faster and showed slightly better results.
-- Compared models for univariate time series. SARIMA outperformed LSTM in accuracy and training time.
+- Compared effectiveness of two popular gradient boosting models (LightGBM and CatBoost).
+    - Models demonstrated similar accuracy metrics of test dataframe. 
+    - However, LightGBM was significantly faster to train and tune; and slightly more accurate
+- Compared models for univariate time series. 
+    - SARIMA outperformed LSTM in accuracy and training time.
+    - LSTM was significantly less accurate (probably small data size) with WAPE=8 vs WAPE=4 in case of SARIMA.
 
 
