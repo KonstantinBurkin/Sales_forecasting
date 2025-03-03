@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sales-forecasting"
+version = "0.1.0"
+description = ""
+authors = ["Konstantin Burkin <konstantin.burkin.m@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+catboost = "^1.2.7"
+optuna = "^4.2.1"
+pmdarima = "^2.0.4"
+lightgbm = "^4.6.0"
+pandas = "^2.2.3"
+nbformat = "^5.10.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
