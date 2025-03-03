@@ -13,6 +13,8 @@ pmdarima = "^2.0.4"
 lightgbm = "^4.6.0"
 pandas = "^2.2.3"
 nbformat = "^5.10.4"
+pyarrow = "^19.0.1"
+fastparquet = "^2024.11.0"
 
 
 [build-system]
